@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bmm/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "m5"
+	}
+}
